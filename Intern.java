@@ -39,8 +39,4 @@ public class Intern{
         System.out.println();
 
     }
-
-
-
-
 }
