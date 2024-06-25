@@ -23,3 +23,8 @@ public class Manager extends Employee{
   }
      
 }
+
+
+/// Create two managers objects and compare the salaries
+ // Use for loops to print the 
+ //Create a 5 manager objects use in a list 

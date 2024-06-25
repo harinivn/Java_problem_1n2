@@ -1,6 +1,4 @@
-// PROBLEM 2:
-// Create a 'Student' class with variables 'firstName', 'rollNumber', and 'lastName'. 
-// Create an object of Student class with firstName as 'ABC', rollNumber as '123456', and 'lastName' as 'XYZ'?
+
 
 
 public class Student{
