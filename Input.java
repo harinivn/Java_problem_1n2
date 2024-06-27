@@ -30,13 +30,7 @@ public class Input{
         System.out.println("Neither all are equal or different");
     }
 
-
-
     scanner.close();
-
-
-
-
     }
 
    
